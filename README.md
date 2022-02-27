@@ -1,2 +1,2 @@
 # Quick_Braids
-tool to quickly create braids
+Blender 3d tool to quickly create braids
